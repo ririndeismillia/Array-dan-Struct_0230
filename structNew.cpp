@@ -15,7 +15,13 @@ int main() {
     cout << "Nama : " ;
     cin >> mhs.nama;
     cout << "Alamat : " ;
+    cin >> mhs.alamat;
+    cout << "Umur : " ;
+    cin >> mhs.umur;
+    cout << endl;
+    // tampilakn 
     
+
 }
 
 
