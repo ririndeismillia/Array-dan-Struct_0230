@@ -20,4 +20,9 @@ int main() {
     getline(cin , mhs.nama);
     cout << "Desa : " ;
     getline(cin , mhs.alamat.desa);
+    cout << "Kota : " ;
+    getline(cin , mhs.alamat.kota);
+    cout << "Umur : " ;
+    cout << endl;
+    // tampilkan 
 }    
